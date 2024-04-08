@@ -1,3 +1,3 @@
-#TEXT SUMMARIZER
+<H1>TEXT SUMMARIZER</H1>
 
-![Uploading image.png…]()
+![Uploading Screenshot 2024-04-08 112330.png…]()
