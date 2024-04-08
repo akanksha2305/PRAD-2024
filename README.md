@@ -1,3 +1,3 @@
-##TEXT SUMMARIZER
+#TEXT SUMMARIZER
 
 ![Uploading image.png…]()
